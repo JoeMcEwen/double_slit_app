@@ -1,4 +1,0 @@
-name: doubel_slit_app
-dependencies:
-  - numpy
-  - matplotlib
